@@ -11,7 +11,7 @@ public class SpringBootDockerApplication {
 
     @GetMapping("/")
     public String getMessage() {
-        return "Welcome to Docker and jenkins world .... !!!!";
+        return "Welcome to Docker and jenkins world  .... !!!!";
     }
 
     public static void main(String[] args) {
